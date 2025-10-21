@@ -83,7 +83,7 @@ public class IntroTextManager : MonoBehaviour
 
         panel.SetActive(false);
         Time.timeScale = 1f;
-        panel2.SetActive(true);
+        panel.SetActive(true);
     }
     
     public void LoadMainMenu()
