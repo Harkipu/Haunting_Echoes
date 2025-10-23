@@ -3,9 +3,9 @@
 <br>
 
 ## About
-You don't know how you get in here.
-There is terrifying sound everywhere.
-Survive and find the Objective.
+You don't know how you get in here.<br>
+There is terrifying sound everywhere.<br>
+Survive and find the Objective.<br>
 
 ## Controls
 
