@@ -7,6 +7,8 @@ You don't know how you get in here.<br>
 There is terrifying sound everywhere.<br>
 Survive and find the Objective.<br>
 
+---
+
 ## Controls
 
 WASD to move (Up,Down,Left,Right)
@@ -15,17 +17,7 @@ E to Interact
 
 Left Shift to Sprint
 
-## Contributions
-
-Nelvin Anderson - Game Designer
-
-Felix Olivier Stefano - 2D Game Artist
-
-Pieter Nathanael Setiawan - Sound
-
-Nhoel Marvin Kantohe Dharmadi Goei - Game Programmer
-
-Clifftoven Wicaksono - Game Programmer (Managing UI, Pause, Locker Interaction, and randomizing)
+---
 
 ##  Scripts
 
@@ -40,4 +32,19 @@ Clifftoven Wicaksono - Game Programmer (Managing UI, Pause, Locker Interaction, 
 | `DynamicSorting.cs`| This script help sort sprites to give depth of some sort.|
 | `IntroTextManager.cs`| This script is use for the intro of the game to tell some backstories.|
 | `WallSortingGenerator.cs`| I think this script is used to try make a 2.5D game but it doesn't get used now.|
+
+---
+
+# Contributions and Team members
+
+Nelvin Anderson - Game Designer
+
+Felix Olivier Stefano - 2D Game Artist
+
+Pieter Nathanael Setiawan - Sound
+
+Nhoel Marvin Kantohe Dharmadi Goei - Game Programmer
+
+Clifftoven Wicaksono - Game Programmer (Managing UI, Pause, Locker Interaction, and randomizing)
+
 
